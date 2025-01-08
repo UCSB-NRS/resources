@@ -62,7 +62,23 @@ Don’t want your work to be public before being published? Not a problem! After
 
 ### Licenses
 
-*Return to this*
+**Why do I need to choose a license for my repository?** 
+
+When hosting your work on GitHub, a license should be chosen to foster collaboration, transparency, and reproducibility. Not having a license implies that others have no right to use, modify, or distribute the code which may deter potential collaborators. 
+
+**What license should I choose?** 
+
+Commonly used licenses for researchers include the MIT license, and the three clause BSD license (BSD-3). Each of these licenses are simple and highly permissive. They both grant permission for others to use the work so long as they attribute the original author. The BSD-3 has come subtle differences, but the main one is it includes a no endorsement clause that prevents the use of the names of the original author or its contributors to promote derived products without written permission.
+
+If your goal is open science, then the MIT license is the simplest choice. Additionally, you can initially choose a more restrictive license and then change it after publication. 
+
+For more information on licenses see [A Quick Guide to Software Licensing for the Scientist-Programmer](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598) by Morin et al. (2012).
+
+For additional help choosing a license, see [Choose a License](https://choosealicense.com/).
+
+**How do I create a license?** 
+
+GitHub provides license templates that are easy to add to your repository. See GitHub’s docs [Adding a License to a Repository](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
 
 ## Working with Jupyter Notebooks
 
