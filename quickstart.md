@@ -43,6 +43,8 @@ earth_analysis
 |  
 |--scripts  
 |  
+|--references  
+|
 |--outputs  
 |    |__figures  
 |    |__reports  
