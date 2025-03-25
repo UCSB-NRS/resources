@@ -5,7 +5,7 @@ If you work on research at or related to UCSB NRS sites, we'd like to point to y
 
 Alternatively, we can showcase your repository by forking it to the organization repository list where it will be set up to automatically update.    
 
-# Santa Cruz Island Reserve
+# Santa Cruz Island Reserve (SCI)   
 ## Moore Foundation - Building Resilience to Wildfires Grant   
 These repositories are associated with work done in support of the Building Resilience to Wildfire grant from the Moore Foundation.    
 
@@ -15,7 +15,7 @@ Fog is an important but understudied component of the climate. It's critical to 
 __[Santa Cruz Island WRF Fog and Low Clouds Evaluation](https://github.com/UCSB-NRS/sci-wrf-analysis)__          
 Weather Research and Forecasting (WRF) model outputs can be an invaluable tool for investigating questions related to fog climatology, but its performance in simulating fog and low clouds is not well understood. If it performs well, then WRF can provide high spatial resolution data on fog - a facet of the climate for which observational data is scarce and difficult to collect. This repository contains analyses comparing WRF outputs with satellite data and weather station data to evaluate it performance in simulating low clouds and fog for Santa Cruz Island.    
 
-# Sierra Nevada Aquatic Research Laboratory   
+# Sierra Nevada Aquatic Research Laboratory (SNARL)   
 
 ## [Mountain Lakes Research Group](https://mountainlakesresearch.com/)   
 __[Capture-Mark-Recapture Population Analysis for the Endangered Mountain Yellow-Legged Frog](https://github.com/SNARL1/cmr-analysis)__       
