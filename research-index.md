@@ -19,7 +19,6 @@ Weather Research and Forecasting (WRF) model outputs can be an invaluable tool f
 
 ## [Mountain Lakes Research Group](https://mountainlakesresearch.com/)   
 __[Capture-Mark-Recapture Population Analysis for the Endangered Mountain Yellow-Legged Frog](https://github.com/SNARL1/cmr-analysis)__       
-
 A reproducible research compendium containing the data and analyses focused on actions conducted to recover populations of the endangered mountain yellow-legged frog.   
 
 __[Frog Growth](https://github.com/SNARL1/frog-growth)__    
