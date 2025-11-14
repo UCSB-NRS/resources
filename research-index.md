@@ -5,6 +5,13 @@ If you work on research at or related to UCSB NRS sites, we'd like to point to y
 
 Alternatively, we can showcase your repository by forking it to the organization repository list where it will be set up to automatically update.    
 
+# Coal Oil Point Reserve (COPR)   
+
+## Please visit COPR's GitHub page
+Repositories include R code for a Shiny App that desplays Devereux Slough water quality data
+
+__[COPR GitHub](https://github.com/UCSB-COPR)__
+
 # Santa Cruz Island Reserve (SCI)   
 ## Moore Foundation - Building Resilience to Wildfires Grant   
 These repositories are associated with work done in support of the Building Resilience to Wildfire grant from the Moore Foundation.    
